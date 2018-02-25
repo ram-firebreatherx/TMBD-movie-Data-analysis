@@ -1,0 +1,7 @@
+1. stack overflow
+2.https://pythonspot.com/matplotlib
+3.https://pandas.pydata.org/
+4.www.numpy.org/
+5.www.datasciencemadesimple.com
+6.udacity materials
+7.https://www.datacamp.com/community/tutorials/pandas-split-apply-combine-groupby
